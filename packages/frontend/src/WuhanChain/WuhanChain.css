@@ -1,0 +1,171 @@
+.identicon {
+  border-radius: 50%;
+  vertical-align: middle;
+  text-align: left;
+  
+}
+
+.logined-div{
+  text-align: left;
+  padding-left:100px;
+}
+
+.profile-div{
+  text-align: left;
+  padding-left:100px;
+}
+
+.publicAddressFont {
+ color: blue;
+ font-size: 1.1em;
+}
+
+.balanceFont {
+  color: red;
+  font-size: 1.1em;
+ }
+
+.hidden {
+  display: none;
+}
+
+.input-address{
+  width: 320px;
+  margin: 15px;
+}
+
+.input-function-name{
+  width: 180px;
+  margin: 15px;
+}
+
+.input-params{
+  width: 180px;
+  margin: 15px;
+}
+
+.textarea-style{
+  padding: 10px;;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+.textarea-lable{
+  margin-left: 40px;
+  vertical-align: text-top;
+}
+.textarea-deploy{
+  margin-left: 0px;
+  vertical-align: text-top;
+}
+
+.span-style{
+  color: red;
+  width: 450px;
+  margin-left: 90px;
+  display:block;
+}
+
+.uploadFileNote{
+  margin-left: 60px;
+}
+
+.deploy-note-style{
+  margin-left: 115px;
+}
+.note-style{
+  display: inline;
+  font-size: 0.5em;
+  color: rgb(133, 12, 12);
+}
+
+.param-style{
+  display: inline;
+  font-size: 1.0em;
+  color: rgb(10, 115, 244);
+}
+
+.button{
+  margin-left: 20px;
+}
+
+.lable-step3 {
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+.inputFile{
+  display: none;
+}
+
+.button-upload-style {
+  color: white;
+  font-size: 2px;
+  height: 25px;
+  width: 80px;
+  background-color: rgb(190, 193, 33);
+  margin-left: 50px;
+}
+
+.button-compile-style {
+    color: white;
+    font-size: 2px;
+    height: 25px;
+    width: 80px;
+    background-color: rgb(255, 125, 0);
+    margin-left: 20px;
+}
+
+.button-deploy-style {
+  color: white;
+  font-size: 2px;
+  height: 25px;
+  width: 80px;
+  background-color: rgb(255, 125, 0);
+  margin-left: 0px;
+}
+
+.button-invoke-style {
+  color: white;
+  font-size: 2px;
+  height: 25px;
+  width: 80px;
+  background-color: rgb(255, 125, 0);
+  margin-left: 0px;
+}
+
+.button-div {
+  cursor:"pointer";
+  display: inline-block;
+  padding: .3em .5em;
+  background-image: linear-gradient(rgb(23, 130, 26), rgb(10, 94, 81));
+  border: 1px solid rgba(0, 0, 0, .2);
+  border-radius: .3em;
+  box-shadow: 0 1px white inset;
+  text-align: center;
+  text-shadow: 0 1px 1px black;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  pointer-events: auto;
+  margin-left: 20px;
+  height: 25px;
+  width: 80px;
+ }
+
+
+
+.profile-success {
+  /*animation: App-logo-spin infinite 20s linear;*/
+  height: 30px;
+  margin-left: 25px;
+  vertical-align: middle;
+}
+
+
+.stepMessage{
+  margin-left: 20px;
+  vertical-align: middle;
+}
+
+ 
