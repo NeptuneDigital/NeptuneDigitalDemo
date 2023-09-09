@@ -19,6 +19,10 @@ There are 2 packages in this repo: a [`backend`](./packages/backend) which is a 
 
 The simplest way to get started is to launch the demo using Docker Compose. Alternatively you could launch docker the containers manually, or run the node services using yarn.
 
+Change the projectRootDir:
+Edit  ./packages/backend/src/config.ts
+Modify the projectRootDir and uploadPath const.
+
 #### 1. Launch the demo using Docker Compose:
 
 ```bash
